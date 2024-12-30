@@ -1,3 +1,13 @@
+/**
+	Just some cute little font header I wrote for an OLED matrix display.
+	
+	The Custom Bike Computer (CBC) is formatted to use this font.
+	
+	Have fun!
+	
+	Author: Brett Warren
+*/
+
 uint8_t matrixFont[128][8] = {
 	{
 		0b00000000,
